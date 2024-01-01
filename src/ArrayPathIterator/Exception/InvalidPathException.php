@@ -1,5 +1,5 @@
 <?php
 namespace Cl\Iterator\ArrayPathIterator\Exception;
 
-class InvalidPathException extends \RuntimeException
+class InvalidPathException extends \Exception
 {}
