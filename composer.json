@@ -23,7 +23,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Cl\\Iterator\\Test\\": "src/test/"
+            "Cl\\Iterator\\Test\\": "test/"
         }
     }
 
